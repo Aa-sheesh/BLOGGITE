@@ -2,6 +2,8 @@
 * Use npm i after opening in vs code to install dependencies.
 * Go to RTE and add your own api key from tiny MCE.
 * Adjust versions according to time as this project was made in 02/06/24.
+# App preview
+![AppPreview](preview%20of%20app.png)
 # Appwrite
 Build your entire backend within minutes and scale effortlessly using Appwrite's open-source platform.<br/>
 Add Authentication, Databases, Functions, Storage, and Messaging to your projects using the frameworks and languages of your choice.<br/>
