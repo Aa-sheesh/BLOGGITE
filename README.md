@@ -1,13 +1,13 @@
-# Project Setup
+## Project Setup
 * Use npm i after opening in vs code to install dependencies.
 * Go to RTE and add your own api key from tiny MCE.
 * Adjust versions according to time as this project was made in 02/06/24.
 # App preview
 ![AppPreview](preview%20of%20app.png)
-# Appwrite
+## Appwrite
 Build your entire backend within minutes and scale effortlessly using Appwrite's open-source platform.<br/>
 Add Authentication, Databases, Functions, Storage, and Messaging to your projects using the frameworks and languages of your choice.<br/>
-# TechStack for this project
+## TechStack for this project
 ![Dependencies installed](Screenshot%202024-05-31%20164044.png)
 `React` with `Vite` - Frontend <br/>
 `AppWrite` - Backend <br/>
@@ -17,7 +17,7 @@ Add Authentication, Databases, Functions, Storage, and Messaging to your project
 `html-react-parser` - Parsing <br/>
 `React Hook Forms` - Forms <br/>
 `tinyMCE` - text editor<br/>
-# Authentication in Appwrite
+## Authentication in Appwrite
 Appwrite supports a variety of authentication methods to fit every app and every niche.<br/> Explore Appwrite's authentication flows.<br/>
 
 `Email and password`<br/>
